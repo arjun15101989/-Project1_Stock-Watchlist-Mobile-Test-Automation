@@ -1,0 +1,8 @@
+venv/
+.venv/
+.idea/
+results/
+*.html
+*.xml
+*.png
+__pycache__/
